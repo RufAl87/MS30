@@ -1,0 +1,1 @@
+GameBuyByUserde game almaqdan evvel yawini, balansini ve endirimi yoxlayir
